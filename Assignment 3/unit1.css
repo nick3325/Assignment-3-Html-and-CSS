@@ -1,0 +1,86 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: bisque;
+    }
+ul  {
+    color: chocolate;
+    }
+li  {
+    color:royalblue;
+    list-style-type: square;
+    }
+
+.BioButton{
+    width: 190px;
+    background-color: rgba(165, 89, 1, 0.774);
+    color: black;
+    border: .5px solid black;
+    padding: 20px;
+    }
+
+.VacationButton{
+    width: 130px;
+    background-color: rgba(70, 38, 1, 0.774);
+    color: black;
+    border: .5px solid black;
+    padding: 20px;
+    }
+
+.SportsTeamButton{
+    width: 130px;
+    background-color: rgba(131, 5, 125, 0.774);
+    color: black;
+    border: .5px solid black;
+    padding: 20px;
+    }
+
+
+.FplayerButton{
+        width: 130px;
+        background-color: rgba(154, 173, 47, 0.774);
+        color: black;
+        border: .5px solid black;
+        padding: 20px;
+        }
+
+.DreamJobButton{
+            width: 130px;
+            background-color: rgba(0, 174, 255, 0.774);
+            color: black;
+            border: .5px solid black;
+            padding: 20px;
+            }
+.btn{
+    width: 110px;
+    background-color: rgba(97, 52, 2, 0.774);
+    color: black;
+    border: .5px solid black;
+    padding: 20px;
+    }
+
+
+#text{
+    font-weight: bold;
+    text-transform: uppercase;
+    text-shadow: 1px 3px rgba(131, 54, 3, 0.76);
+   }
+
+a:link{
+    color: royalblue;
+    font-size: 16px;
+    background-color: cornsilk
+    }
+a:visited{
+    color: grey;
+    }
+a:hover{
+    color: indigo;
+    background-color: lightslategray;
+    }
+
+a:active{
+    font-size: 20px;
+    }
+footer{
+    text-align: center;
+}
