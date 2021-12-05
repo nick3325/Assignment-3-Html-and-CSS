@@ -16,6 +16,7 @@ li  {
     color: black;
     border: .5px solid black;
     padding: 20px;
+    border-radius: 10px;
     }
 
 .VacationButton{
@@ -24,6 +25,7 @@ li  {
     color: black;
     border: .5px solid black;
     padding: 20px;
+    border-radius: 10px;
     }
 
 .SportsTeamButton{
@@ -32,6 +34,7 @@ li  {
     color: black;
     border: .5px solid black;
     padding: 20px;
+    border-radius: 10px;
     }
 
 
@@ -41,6 +44,7 @@ li  {
         color: black;
         border: .5px solid black;
         padding: 20px;
+        border-radius: 10px;;
         }
 
 .DreamJobButton{
@@ -49,6 +53,7 @@ li  {
             color: black;
             border: .5px solid black;
             padding: 20px;
+            border-radius: 10px;
             }
 .btn{
     width: 110px;
@@ -81,6 +86,17 @@ a:hover{
 a:active{
     font-size: 20px;
     }
+
+
+
+header{
+    background-color: tomato;
+}
+main{
+    background-color: rgba(219, 217, 67, 0.911);
+}
 footer{
     text-align: center;
+    background-color: white;
+    margin: auto;
 }
